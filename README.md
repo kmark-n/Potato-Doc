@@ -12,6 +12,7 @@ By providing **early disease detection**, **Potato Doc** helps **farmers take ti
 ![image](https://github.com/user-attachments/assets/d83f0021-89c9-49eb-8f6b-c3419257ab79)
 image classified
 
+![image](https://github.com/user-attachments/assets/b7ef467d-ca4f-4067-a402-2097d36e46bf)             ![image](https://github.com/user-attachments/assets/b40bfbeb-6871-42f4-81c1-6f099824b25b)
 
 
 ---
